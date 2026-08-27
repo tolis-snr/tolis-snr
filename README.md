@@ -80,6 +80,20 @@ class Tolis:
 
 ---
 
+## 🚀 Featured Personal Projects (Latest Stack)
+
+> These are my newest personal projects where I focus on modern **Data Engineering**, **Cloud**, and **AI** technologies.
+
+| Project | What it focuses on | Main Stack |
+|--------|---------------------|------------|
+| [☁️ cloud-ai-api](https://github.com/tolis-snr/cloud-ai-api) | Cloud-native RAG assistant with decoupled frontend/backend and CI/CD | `FastAPI` · `LangChain` · `Streamlit` · `Docker` · `Azure` · `Terraform` |
+| [🎵 spark-etl-pipeline](https://github.com/tolis-snr/spark-etl-pipeline) | Big data lakehouse pipeline with ML clustering and BI | `PySpark` · `Airflow` · `MinIO` · `PostgreSQL` · `Metabase` · `Docker` |
+| [🎬 netflix-elt-pipeline](https://github.com/tolis-snr/netflix-elt-pipeline) | Modern ELT workflow with orchestration, warehousing, and analytics engineering | `Airflow` · `PostgreSQL` · `dbt` · `Docker` |
+| [🌍 kafka-streaming-pipeline](https://github.com/tolis-snr/kafka-streaming-pipeline) | Real-time streaming data pipeline from API to live dashboard | `Kafka` · `Python` · `PostgreSQL` · `Streamlit` · `Docker` |
+| [🤖 coderunner](https://github.com/tolis-snr/coderunner) | Interactive educational coding microworld | `Flask` · `JavaScript` · `HTML/CSS` · `Python` |
+
+---
+
 ## 🎓 Uni-Projects — Academic Showcase
 
 > 📚 All projects implemented during studies in **Applied Informatics** at the **University of Macedonia**.
